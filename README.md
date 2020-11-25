@@ -5,5 +5,5 @@
 ![alt text](https://datascienceplus.com/wp-content/uploads/2016/12/datasets.png)
 
 ## Fuentes
-https://www.youtube.com/watch?v=P8ls1Wjmpkw&t=530s
-https://www.aprendemachinelearning.com/deteccion-de-outliers-en-python-anomalia/
+* https://www.youtube.com/watch?v=P8ls1Wjmpkw&t=530s
+* https://www.aprendemachinelearning.com/deteccion-de-outliers-en-python-anomalia/
